@@ -7,8 +7,7 @@
 
 <body>
   <img
-    src="https://instagram.fbom38-1.fna.fbcdn.net/v/t51.2885-19/s150x150/166888981_1466282053708037_1643279816155504360_n.jpg?tp=1&_nc_ht=instagram.fbom38-1.fna.fbcdn.net&_nc_ohc=dpqS636AiaoAX-TID3y&edm=ABfd0MgBAAAA&ccb=7-4&oh=90b13075f2271c5a5293b689fa1843bb&oe=60B46751&_nc_sid=7bff83"
-    alt="Photo from instagram">
+    src="https://newmail-ng.com/wp-content/uploads/2016/06/Cristiano-Ronaldo-.jpg" alt="Photo from instagram">
   <h1> Ankit Warwade</h1>
   <p><em> Student at <strong>IET DAVV INDORE</strong> </em></p>
   <p> I am doing Mechanical engineering at IET DAVV INdore ,My favourite footballer is Cristiano Ronaldo.</p>
